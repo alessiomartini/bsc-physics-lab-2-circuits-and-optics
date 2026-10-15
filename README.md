@@ -170,6 +170,6 @@ date the experiment was performed.
 
 ## Related repository
 
-- [`physics-lab-1-mechanics-and-waves-unimib`](https://github.com/alessiomartini/physics-lab-1-mechanics-and-waves-unimib)
+- [`bsc-physics-lab-1-mechanics-and-waves`](https://github.com/alessiomartini/bsc-physics-lab-1-mechanics-and-waves)
   — the first-year laboratory course: Cavendish and Coulomb balances, acoustic
   tube, pendulum, springs.
